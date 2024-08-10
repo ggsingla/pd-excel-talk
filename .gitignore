@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+.env
+
+# Distribution / packaging
+bin/
+build/
+dist/
+lib/
+
+# Installer logs
+pip-log.txt
